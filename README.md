@@ -1,2 +1,2 @@
-# test-os
+# Test OS
 Test OS
